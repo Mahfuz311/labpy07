@@ -10,14 +10,16 @@ Kelas: TI.24.A.3
 
 ## Deskripsi
  program sederhana ini menggunakan class di Python untuk menampilkan daftar nilai mahasiswa
- ## Diagram
+ 
+## Diagram class
 
+<img src="labpy07/Mahasiswa.png">
 
- ## Flowchart
+## Flowchart
 
+<img src="https://github.com/Mahfuz311/labpy07/blob/main/labpy07/flowchart.png">
 
-
- ## Fitur
+## Fitur
  
 *  ```tambah(nama)```: Menambahkan data mahasiswa baru ke dalam daftar.
 
@@ -27,7 +29,7 @@ Kelas: TI.24.A.3
 
 *  ```ubah(nama_lama, nama_baru)```: Mengubah data mahasiswa dari nama lama menjadi nama baru.
 
- ## Penggunaan
+## Penggunaan
 
 1. Buat objek ```Mahasiswa```.
 2. Panggil metode-metode yang tersedia, seperti ```tambah()```, ```tampilkan()```, ```hapus()```, dan ```ubah()```.
@@ -45,9 +47,8 @@ mahasiswa.tampilkan()
 ```
 ## Contoh Output
 
+<img src="https://github.com/Mahfuz311/labpy07/blob/main/labpy07/output.png">
 
-
-
-
+```
 Program ini memungkinkan untuk menambah, menampilkan, mengubah, dan menghapus data mahasiswa berdasarkan nama, sesuai dengan ketentuan yang diminta.
- 
+```
